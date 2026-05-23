@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/seleene-puzzle/static/css/main.e6c13ad2.css",
-    "main.js": "/seleene-puzzle/static/js/main.40c48d81.js",
-    "static/js/453.fee62381.chunk.js": "/seleene-puzzle/static/js/453.fee62381.chunk.js",
-    "static/media/p4.png": "/seleene-puzzle/static/media/p4.d14eb7a69565c2b4d7fa.png",
-    "static/media/p3.png": "/seleene-puzzle/static/media/p3.d44eee4800cfad62651d.png",
-    "static/media/p5.png": "/seleene-puzzle/static/media/p5.b377578952b89a14ab0c.png",
-    "static/media/p1.png": "/seleene-puzzle/static/media/p1.39184158ab5690bd1206.png",
-    "static/media/p2.png": "/seleene-puzzle/static/media/p2.9df20605fb97f9bd2d72.png",
+    "main.js": "/seleene-puzzle/static/js/main.a665765f.js",
+    "static/js/453.69f92658.chunk.js": "/seleene-puzzle/static/js/453.69f92658.chunk.js",
+    "static/media/p4.png": "/seleene-puzzle/static/media/p4.1709a433a368e9750890.png",
+    "static/media/p3.png": "/seleene-puzzle/static/media/p3.eaccb87e5415a5a50908.png",
+    "static/media/p5.png": "/seleene-puzzle/static/media/p5.6ed8cb1a5a801add8cfb.png",
+    "static/media/p1.png": "/seleene-puzzle/static/media/p1.815ab693860dbd54f40e.png",
+    "static/media/p2.png": "/seleene-puzzle/static/media/p2.60f7a0f306cd759f6d96.png",
     "static/media/Pergamino.png": "/seleene-puzzle/static/media/Pergamino.e1e994ae267307c8c258.png",
     "index.html": "/seleene-puzzle/index.html",
     "main.e6c13ad2.css.map": "/seleene-puzzle/static/css/main.e6c13ad2.css.map",
-    "main.40c48d81.js.map": "/seleene-puzzle/static/js/main.40c48d81.js.map",
-    "453.fee62381.chunk.js.map": "/seleene-puzzle/static/js/453.fee62381.chunk.js.map"
+    "main.a665765f.js.map": "/seleene-puzzle/static/js/main.a665765f.js.map",
+    "453.69f92658.chunk.js.map": "/seleene-puzzle/static/js/453.69f92658.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.40c48d81.js"
+    "static/js/main.a665765f.js"
   ]
 }
