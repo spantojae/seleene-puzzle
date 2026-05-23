@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/seleene-puzzle/static/css/main.e6c13ad2.css",
+    "main.js": "/seleene-puzzle/static/js/main.a466c393.js",
+    "static/js/453.fee62381.chunk.js": "/seleene-puzzle/static/js/453.fee62381.chunk.js",
+    "static/media/p4.png": "/seleene-puzzle/static/media/p4.d14eb7a69565c2b4d7fa.png",
+    "static/media/p3.png": "/seleene-puzzle/static/media/p3.d44eee4800cfad62651d.png",
+    "static/media/p5.png": "/seleene-puzzle/static/media/p5.b377578952b89a14ab0c.png",
+    "static/media/p1.png": "/seleene-puzzle/static/media/p1.39184158ab5690bd1206.png",
+    "static/media/p2.png": "/seleene-puzzle/static/media/p2.9df20605fb97f9bd2d72.png",
+    "static/media/Pergamino.png": "/seleene-puzzle/static/media/Pergamino.e1e994ae267307c8c258.png",
+    "index.html": "/seleene-puzzle/index.html",
+    "main.e6c13ad2.css.map": "/seleene-puzzle/static/css/main.e6c13ad2.css.map",
+    "main.a466c393.js.map": "/seleene-puzzle/static/js/main.a466c393.js.map",
+    "453.fee62381.chunk.js.map": "/seleene-puzzle/static/js/453.fee62381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a466c393.js"
+  ]
+}
