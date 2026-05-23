@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Seleene Co",
+  "name": "Seleene Co — Romantasy Puzzle",
+  "description": "A moonlit literary puzzle adventure for romantasy readers.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#0a0510",
+  "background_color": "#0a0510",
+  "orientation": "portrait"
 }
