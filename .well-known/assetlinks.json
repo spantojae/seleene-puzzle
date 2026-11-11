@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seleeneco.puzzle",
+      "sha256_cert_fingerprints":
+        ["B2:2E:22:9E:C0:55:17:EF:C7:52:27:24:F5:3C:36:EF:5E:4F:37:C7:F0:DB:7C:CC:F6:58:A0:94:16:E4:1A:BF"]
+    }
+  }
+]
